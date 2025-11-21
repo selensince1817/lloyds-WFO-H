@@ -1,0 +1,31 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+.venv/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+coverage/
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Data artifacts generated at runtime
+data/processed/*
+!data/processed/.gitkeep
+
+models/*
+!models/.gitkeep
+
+# Reports produced by scripts
+reports/*.json
+reports/*.csv
+!reports/.gitkeep
+
+# Local tooling
+.vscode/
+.idea/
+.DS_Store
+

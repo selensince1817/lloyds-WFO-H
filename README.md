@@ -1,7 +1,7 @@
 # Workforce Preference Predictor
 
 Machine-learning prototype originally built for the 2022 Lloyds Banking Group Insight Internship.  
-The refreshed repo provides a lightweight, reproducible pipeline that predicts whether an employee
+The repo provides a lightweight, reproducible pipeline that predicts whether an employee
 is likely to prefer working from home (WFH) or working from the office (WFO) based on qualitative
 signals (motivation, wellbeing, commute, etc.).
 
